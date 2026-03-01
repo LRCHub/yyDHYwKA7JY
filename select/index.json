@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "とくとく…… とく……",
+  "base_artist": "佐城雪美 (CV: 中澤ミナ)",
+  "createdAt": "2026-03-01T01:53:38.309844Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "とくとく…… とく……",
+      "artist": "佐城雪美(中澤ミナ)",
+      "has_synced": false,
+      "path": "select/pl_01_とくとく......_とく......_佐城雪美(中澤ミナ).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "とくとく…… とく…… (GAME VERSION)",
+      "artist": "佐城雪美(中澤ミナ)",
+      "has_synced": false,
+      "path": "select/pl_02_とくとく......_とく......_(GAME_VERSION)_佐城雪美(中澤ミナ).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "とくとく…… とく…… (GAME VERSION)",
+      "artist": "佐城雪美(中澤ミナ)",
+      "has_synced": false,
+      "path": "select/pl_03_とくとく......_とく......_(GAME_VERSION)_佐城雪美(中澤ミナ).txt"
+    }
+  ]
+}
